@@ -2420,6 +2420,16 @@
       "url": "https://www.pmi.org/membership/chapters/sub-saharan-africa"
     },
     {
+      "n": "South Alabama Chapter",
+      "r": "North America",
+      "co": "United States",
+      "st": "Alabama",
+      "ci": "Mobile",
+      "lat": 30.6954,
+      "lon": -88.0399,
+      "url": "https://www.pmi.org/membership/chapters/north-america"
+    },
+    {
       "n": "South Carolina Midlands Chapter",
       "r": "North America",
       "co": "United States",
@@ -2970,7 +2980,7 @@
       "url": "https://www.pmi.org/membership/chapters/sub-saharan-africa"
     }
   ],
-  "updatedAt": "2026-10-15",
+  "updatedAt": "2026-11-05",
   "updatedBy": "Guilherme Martins",
-  "sourceFile": "PMI Chapters_20261015.csv"
+  "sourceFile": "PMI Chapters_20261105.csv"
 }
